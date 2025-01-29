@@ -2,7 +2,7 @@
 Natural Language Processing and Deep Learning
 
 # Overview
-This repository contains the Speech Emotion Recognition (SER) and Threat Detection project, developed as part of the M.Tech Business Analytics program at VIT Chennai. The project explores the use of deep learning and machine learning techniques to classify emotions in speech and detect potential threats based on tone and sentiment analysis.
+This repository contains the Speech Emotion Recognition (SER) and Threat Detection project. The project explores the use of deep learning and machine learning techniques to classify emotions in speech and detect potential threats based on tone and sentiment analysis.
 
 # Abstract
 Speech Emotion Recognition (SER) is a critical area in natural language processing (NLP) and machine learning, focusing on identifying emotions from speech signals. This project leverages Multi-Layer Perceptron (MLP), Support Vector Machines (SVM), and Mel Frequency Cepstral Coefficients (MFCCs) for feature extraction and classification. Using the RAVDESS dataset, the model is trained to recognize emotions such as happy, sad, angry, fearful, and neutral, achieving an accuracy of 80.2%.
