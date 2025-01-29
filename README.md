@@ -63,6 +63,3 @@ Threat Detection: Successfully flagged aggressive/distressful speech patterns.
 📂 Dataset/ → Contains the RAVDESS dataset (not included due to size constraints, refer to official source).
 Source code → Source code is provided.
 
-# sample metrics image:
-![image](https://github.com/user-attachments/assets/153f9ea2-b36f-46d6-ac0b-63a0149e5070)
-
